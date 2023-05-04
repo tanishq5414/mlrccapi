@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Hello, world!",
+    "description": "A simple example.",
+    "hashtag": "general",
+    "link": "https://www.google.com/",
+    "createdAt": "2023-05-04T06:23:23.186+00:00"
+  },
+  {
+    "title": "Second Notice",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "hashtag": "event",
+    "link": "https://www.mlritcie.in/",
+    "createdAt": "2023-05-04T06:23:23.186+00:00"
+  },
+  {
+    "title": "Second Notice",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "hashtag": "event",
+    "link": "https://www.mlritcie.in/",
+    "createdAt": "2023-05-04T06:23:23.186+00:00"
+  },
+  {
+    "title": "Third Notice",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "hashtag": "event",
+    "link": "https://www.mlritcie.in/",
+    "createdAt": "2023-05-04T06:23:23.186+00:00"
+  },{
+    "title": "Fourth Notice",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "hashtag": "event",
+    "link": "https://www.mlritcie.in/",
+    "createdAt": "2023-05-04T06:23:23.186+00:00"
+  }
+]
